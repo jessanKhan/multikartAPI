@@ -1,7 +1,7 @@
 const products = [
     {   
         "id": 1,
-        "title": "trim dress",
+        "title": "Deo dorente",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
         "type": "fashion",
         "brand": "nike",
@@ -84,7 +84,7 @@ const products = [
                 "image_id": 111,
                 "id": 1.1,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/39.jpg",
+                "src": "/assets/images/fragrance/pro/39.jpg",
                 "variant_id": [
                     101,
                     104
@@ -94,7 +94,7 @@ const products = [
                 "image_id": 112,
                 "id": 1.2,
                 "alt": "white",
-                "src": "/assets/images/pro3/6.jpg",
+                "src": "/assets/images/fragrance/pro/6.jpg",
                 "variant_id": [
                     102,
                     105
@@ -104,7 +104,7 @@ const products = [
                 "image_id": 113,
                 "id": 1.3,
                 "alt": "pink",
-                "src": "/assets/images/pro3/25.jpg",
+                "src": "/assets/images/fragrance/pro/25.jpg",
                 "variant_id": [
                     103,
                     106
@@ -114,10 +114,10 @@ const products = [
     },
     {
         "id": 2,
-        "title": "belted dress",
+        "title": "Perfume De Adores",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
         "type": "fashion",
-        "brand": "zara",
+        "brand": "Perfume De Adores",
         "collection": ["best sellers"],
         "category": "Women",
         "price": 185,
@@ -213,7 +213,7 @@ const products = [
                 "image_id": 211,
                 "id": 2.1,
                 "alt": "olive",
-                "src": "/assets/images/pro3/3.jpg",
+                "src": "/assets/images/fragrance/pro/3.jpg",
                 "variant_id": [
                     201,
                     204,
@@ -224,7 +224,7 @@ const products = [
                 "image_id": 212,
                 "id": 2.2,
                 "alt": "navy",
-                "src": "/assets/images/pro3/4.jpg",
+                "src": "/assets/images/fragrance/pro/4.jpg",
                 "variant_id": [
                     202,
                     205,
@@ -235,7 +235,7 @@ const products = [
                 "image_id": 213,
                 "id": 2.3,
                 "alt": "pink",
-                "src": "/assets/images/pro3/5.jpg",
+                "src": "/assets/images/fragrance/pro/5.jpg",
                 "variant_id": [
                     203,
                     206,
@@ -246,7 +246,7 @@ const products = [
                 "image_id": 214,
                 "id": 2.4,
                 "alt": "pink",
-                "src": "/assets/images/pro3/15.jpg",
+                "src": "/assets/images/fragrance/pro/15.jpg",
                 "variant_id": [
                     201,
                     204
@@ -256,7 +256,7 @@ const products = [
     },
     {
         "id": 3,
-        "title": "fitted dress",
+        "title": "Perfume De Adores",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
         "type": "fashion",
         "brand": "denim",
@@ -313,7 +313,7 @@ const products = [
                 "image_id": 311,
                 "id": 3.1,
                 "alt": "white",
-                "src": "/assets/images/pro3/1.jpg",
+                "src": "/assets/images/fragrance/pro/1.jpg",
                 "variant_id": [
                     301,
                     303
@@ -323,7 +323,7 @@ const products = [
                 "image_id": 312,
                 "id": 3.2,
                 "alt": "white",
-                "src": "/assets/images/pro3/2.jpg",
+                "src": "/assets/images/fragrance/pro/2.jpg",
                 "variant_id": [
                     302,
                     304
@@ -390,7 +390,7 @@ const products = [
                 "image_id": 411,
                 "id": 4.1,
                 "alt": "white",
-                "src": "/assets/images/pro3/8.jpg",
+                "src": "/assets/images/fragrance/pro/8.jpg",
                 "variant_id": [
                     401,
                     402
@@ -400,7 +400,7 @@ const products = [
                 "image_id": 412,
                 "id": 4.2,
                 "alt": "skyblue",
-                "src": "/assets/images/pro3/7.jpg",
+                "src": "/assets/images/fragrance/pro/7.jpg",
                 "variant_id": [
                     403,
                     404
@@ -467,7 +467,7 @@ const products = [
                 "image_id": 511,
                 "id": 5.1,
                 "alt": "green",
-                "src": "/assets/images/pro3/9.jpg",
+                "src": "/assets/images/fragrance/pro/9.jpg",
                 "variant_id": [
                     501,
                     503
@@ -477,7 +477,7 @@ const products = [
                 "image_id": 512,
                 "id": 5.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/10.jpg",
+                "src": "/assets/images/fragrance/pro/10.jpg",
                 "variant_id": [
                     502,
                     504
@@ -562,7 +562,7 @@ const products = [
                 "image_id": 611,
                 "id": 6.1,
                 "alt": "olive",
-                "src": "/assets/images/pro3/11.jpg",
+                "src": "/assets/images/fragrance/pro/11.jpg",
                 "variant_id": [
                     601,
                     604
@@ -572,7 +572,7 @@ const products = [
                 "image_id": 612,
                 "id": 6.2,
                 "alt": "gray",
-                "src": "/assets/images/pro3/12.jpg",
+                "src": "/assets/images/fragrance/pro/12.jpg",
                 "variant_id": [
                     602,
                     605
@@ -582,7 +582,7 @@ const products = [
                 "image_id": 613,
                 "id": 6.3,
                 "alt": "red",
-                "src": "/assets/images/pro3/22.jpg",
+                "src": "/assets/images/fragrance/pro/22.jpg",
                 "variant_id": [
                     603,
                     606
@@ -666,7 +666,7 @@ const products = [
                 "image_id": 711,
                 "id": 7.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/13.jpg",
+                "src": "/assets/images/fragrance/pro/13.jpg",
                 "variant_id": [
                     701,
                     704
@@ -676,7 +676,7 @@ const products = [
                 "image_id": 712,
                 "id": 7.2,
                 "alt": "white",
-                "src": "/assets/images/pro3/8.jpg",
+                "src": "/assets/images/fragrance/pro/8.jpg",
                 "variant_id": [
                     702,
                     705
@@ -686,7 +686,7 @@ const products = [
                 "image_id": 713,
                 "id": 7.3,
                 "alt": "black",
-                "src": "/assets/images/pro3/15.jpg",
+                "src": "/assets/images/fragrance/pro/15.jpg",
                 "variant_id": [
                     703,
                     706
@@ -753,7 +753,7 @@ const products = [
                 "image_id": 811,
                 "id": 8.1,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/14.jpg",
+                "src": "/assets/images/fragrance/pro/14.jpg",
                 "variant_id": [
                     801,
                     804
@@ -763,7 +763,7 @@ const products = [
                 "image_id": 812,
                 "id": 8.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/16.jpg",
+                "src": "/assets/images/fragrance/pro/16.jpg",
                 "variant_id": [
                     802,
                     805
@@ -831,7 +831,7 @@ const products = [
                 "image_id": 911,
                 "id": 9.1,
                 "alt": "black",
-                "src": "/assets/images/pro3/15.jpg",
+                "src": "/assets/images/fragrance/pro/15.jpg",
                 "variant_id": [
                     901,
                     902
@@ -841,7 +841,7 @@ const products = [
                 "image_id": 912,
                 "id": 9.2,
                 "alt": "maroon",
-                "src": "/assets/images/pro3/17.jpg",
+                "src": "/assets/images/fragrance/pro/17.jpg",
                 "variant_id": [
                     903,
                     904
@@ -908,7 +908,7 @@ const products = [
                 "image_id": 1011,
                 "id": 10.1,
                 "alt": "black",
-                "src": "/assets/images/pro3/18.jpg",
+                "src": "/assets/images/fragrance/pro/18.jpg",
                 "variant_id": [
                     1001,
                     1002
@@ -918,7 +918,7 @@ const products = [
                 "image_id": 1012,
                 "id": 10.2,
                 "alt": "pink",
-                "src": "/assets/images/pro3/20.jpg",
+                "src": "/assets/images/fragrance/pro/20.jpg",
                 "variant_id": [
                     1003,
                     1004
@@ -986,7 +986,7 @@ const products = [
                 "image_id": 1111,
                 "id": 11.1,
                 "alt": "red",
-                "src": "/assets/images/pro3/5.jpg",
+                "src": "/assets/images/fragrance/pro/5.jpg",
                 "variant_id": [
                     1101,
                     1102
@@ -996,7 +996,7 @@ const products = [
                 "image_id": 1112,
                 "id": 11.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/33.jpg",
+                "src": "/assets/images/fragrance/pro/33.jpg",
                 "variant_id": [
                     1103,
                     1104
@@ -1105,7 +1105,7 @@ const products = [
                 "image_id": 1211,
                 "id": 12.1,
                 "alt": "red",
-                "src": "/assets/images/pro3/22.jpg",
+                "src": "/assets/images/fragrance/pro/22.jpg",
                 "variant_id": [
                     1201,
                     1204,
@@ -1116,7 +1116,7 @@ const products = [
                 "image_id": 1212,
                 "id": 12.2,
                 "alt": "pink",
-                "src": "/assets/images/pro3/27.jpg",
+                "src": "/assets/images/fragrance/pro/27.jpg",
                 "variant_id": [
                     1202,
                     1205,
@@ -1127,7 +1127,7 @@ const products = [
                 "image_id": 1213,
                 "id": 12.3,
                 "alt": "black",
-                "src": "/assets/images/pro3/38.jpg",
+                "src": "/assets/images/fragrance/pro/38.jpg",
                 "variant_id": [
                     1203,
                     1206,
@@ -1237,7 +1237,7 @@ const products = [
                 "image_id": 1311,
                 "id": 13.1,
                 "alt": "gray",
-                "src": "/assets/images/pro3/26.jpg",
+                "src": "/assets/images/fragrance/pro/26.jpg",
                 "variant_id": [
                     1301,
                     1304,
@@ -1248,7 +1248,7 @@ const products = [
                 "image_id": 1312,
                 "id": 13.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/34.jpg",
+                "src": "/assets/images/fragrance/pro/34.jpg",
                 "variant_id": [
                     1302,
                     1305,
@@ -1259,7 +1259,7 @@ const products = [
                 "image_id": 1313,
                 "id": 13.3,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/39.jpg",
+                "src": "/assets/images/fragrance/pro/39.jpg",
                 "variant_id": [
                     1303,
                     1306,
@@ -1344,7 +1344,7 @@ const products = [
                 "image_id": 1411,
                 "id": 14.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/36.jpg",
+                "src": "/assets/images/fragrance/pro/36.jpg",
                 "variant_id": [
                     1401,
                     1404
@@ -1354,7 +1354,7 @@ const products = [
                 "image_id": 1412,
                 "id": 14.2,
                 "alt": "gray",
-                "src": "/assets/images/pro3/28.jpg",
+                "src": "/assets/images/fragrance/pro/28.jpg",
                 "variant_id": [
                     1402,
                     1405
@@ -1364,7 +1364,7 @@ const products = [
                 "image_id": 1413,
                 "id": 14.3,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/14.jpg",
+                "src": "/assets/images/fragrance/pro/14.jpg",
                 "variant_id": [
                     1403,
                     1406
@@ -1431,7 +1431,7 @@ const products = [
                 "image_id": 1511,
                 "id": 15.1,
                 "alt": "blue",
-                "src": "/assets/images/pro3/30.jpg",
+                "src": "/assets/images/fragrance/pro/30.jpg",
                 "variant_id": [
                     1501,
                     1503
@@ -1441,7 +1441,7 @@ const products = [
                 "image_id": 1512,
                 "id": 15.2,
                 "alt": "skyblue",
-                "src": "/assets/images/pro3/7.jpg",
+                "src": "/assets/images/fragrance/pro/7.jpg",
                 "variant_id": [
                     1502,
                     1504
@@ -1526,7 +1526,7 @@ const products = [
                 "image_id": 1611,
                 "id": 16.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/24.jpg",
+                "src": "/assets/images/fragrance/pro/24.jpg",
                 "variant_id": [
                     1601,
                     1604
@@ -1536,7 +1536,7 @@ const products = [
                 "image_id": 1612,
                 "id": 16.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/35.jpg",
+                "src": "/assets/images/fragrance/pro/35.jpg",
                 "variant_id": [
                     1602,
                     1605
@@ -1546,7 +1546,7 @@ const products = [
                 "image_id": 1613,
                 "id": 16.3,
                 "alt": "blue",
-                "src": "/assets/images/pro3/4.jpg",
+                "src": "/assets/images/fragrance/pro/4.jpg",
                 "variant_id": [
                     1603,
                     1606
@@ -1605,7 +1605,7 @@ const products = [
                 "image_id": 1711,
                 "id": 17.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/25.jpg",
+                "src": "/assets/images/fragrance/pro/25.jpg",
                 "variant_id": [
                     1701
                 ]
@@ -1614,7 +1614,7 @@ const products = [
                 "image_id": 1712,
                 "id": 17.2,
                 "alt": "maroon",
-                "src": "/assets/images/pro3/17.jpg",
+                "src": "/assets/images/fragrance/pro/17.jpg",
                 "variant_id": [
                     1702
                 ]
@@ -1623,7 +1623,7 @@ const products = [
                 "image_id": 1713,
                 "id": 17.3,
                 "alt": "red",
-                "src": "/assets/images/pro3/5.jpg",
+                "src": "/assets/images/fragrance/pro/5.jpg",
                 "variant_id": [
                     1703
                 ]
@@ -1689,7 +1689,7 @@ const products = [
                 "image_id": 1811,
                 "id": 18.1,
                 "alt": "black",
-                "src": "/assets/images/pro3/33.jpg",
+                "src": "/assets/images/fragrance/pro/33.jpg",
                 "variant_id": [
                     1801,
                     1803
@@ -1699,7 +1699,7 @@ const products = [
                 "image_id": 1812,
                 "id": 18.2,
                 "alt": "orange",
-                "src": "/assets/images/pro3/24.jpg",
+                "src": "/assets/images/fragrance/pro/24.jpg",
                 "variant_id": [
                     1802,
                     1804
@@ -1767,7 +1767,7 @@ const products = [
                 "image_id": 1911,
                 "id": 19.1,
                 "alt": "blue",
-                "src": "/assets/images/pro3/40.jpg",
+                "src": "/assets/images/fragrance/pro/40.jpg",
                 "variant_id": [
                     1901,
                     1903
@@ -1777,7 +1777,7 @@ const products = [
                 "image_id": 1912,
                 "id": 19.2,
                 "alt": "gray",
-                "src": "/assets/images/pro3/38.jpg",
+                "src": "/assets/images/fragrance/pro/38.jpg",
                 "variant_id": [
                     1902,
                     1904
@@ -1844,7 +1844,7 @@ const products = [
                 "image_id": 2011,
                 "id": 20.1,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/29.jpg",
+                "src": "/assets/images/fragrance/pro/29.jpg",
                 "variant_id": [
                     2001,
                     2003
@@ -1854,7 +1854,7 @@ const products = [
                 "image_id": 2012,
                 "id": 20.2,
                 "alt": "pink",
-                "src": "/assets/images/pro3/37.jpg",
+                "src": "/assets/images/fragrance/pro/37.jpg",
                 "variant_id": [
                     2002,
                     2004
@@ -1921,7 +1921,7 @@ const products = [
                 "image_id": 2111,
                 "id": 21.1,
                 "alt": "blue",
-                "src": "/assets/images/pro3/4.jpg",
+                "src": "/assets/images/fragrance/pro/4.jpg",
                 "variant_id": [
                     2101,
                     2103
@@ -1931,7 +1931,7 @@ const products = [
                 "image_id": 2112,
                 "id": 21.2,
                 "alt": "gray",
-                "src": "/assets/images/pro3/6.jpg",
+                "src": "/assets/images/fragrance/pro/6.jpg",
                 "variant_id": [
                     2102,
                     2104
@@ -2015,7 +2015,7 @@ const products = [
                 "image_id": 2211,
                 "id": 22.1,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/39.jpg",
+                "src": "/assets/images/fragrance/pro/39.jpg",
                 "variant_id": [
                     2201,
                     2204
@@ -2025,7 +2025,7 @@ const products = [
                 "image_id": 2212,
                 "id": 22.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/34.jpg",
+                "src": "/assets/images/fragrance/pro/34.jpg",
                 "variant_id": [
                     2202,
                     2205
@@ -2035,7 +2035,7 @@ const products = [
                 "image_id": 2213,
                 "id": 22.3,
                 "alt": "green",
-                "src": "/assets/images/pro3/9.jpg",
+                "src": "/assets/images/fragrance/pro/9.jpg",
                 "variant_id": [
                     2203,
                     2206
@@ -2094,7 +2094,7 @@ const products = [
                 "image_id": 2311,
                 "id": 23.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/20.jpg",
+                "src": "/assets/images/fragrance/pro/20.jpg",
                 "variant_id": [
                     2301
                 ]
@@ -2103,7 +2103,7 @@ const products = [
                 "image_id": 2312,
                 "id": 23.2,
                 "alt": "black",
-                "src": "/assets/images/pro3/19.jpg",
+                "src": "/assets/images/fragrance/pro/19.jpg",
                 "variant_id": [
                     2302
                 ]
@@ -2112,7 +2112,7 @@ const products = [
                 "image_id": 2313,
                 "id": 23.3,
                 "alt": "gray",
-                "src": "/assets/images/pro3/28.jpg",
+                "src": "/assets/images/fragrance/pro/28.jpg",
                 "variant_id": [
                     2303
                 ]
@@ -2170,7 +2170,7 @@ const products = [
                 "image_id": 2411,
                 "id": 24.1,
                 "alt": "black",
-                "src": "/assets/images/pro3/23.jpg",
+                "src": "/assets/images/fragrance/pro/23.jpg",
                 "variant_id": [
                     2401
                 ]
@@ -2179,7 +2179,7 @@ const products = [
                 "image_id": 2412,
                 "id": 24.2,
                 "alt": "white",
-                "src": "/assets/images/pro3/8.jpg",
+                "src": "/assets/images/fragrance/pro/8.jpg",
                 "variant_id": [
                     2402
                 ]
@@ -2188,7 +2188,7 @@ const products = [
                 "image_id": 2413,
                 "id": 24.3,
                 "alt": "pink",
-                "src": "/assets/images/pro3/36.jpg",
+                "src": "/assets/images/fragrance/pro/36.jpg",
                 "variant_id": [
                     2403
                 ]
@@ -2254,7 +2254,7 @@ const products = [
                 "image_id": 2511,
                 "id": 25.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/37.jpg",
+                "src": "/assets/images/fragrance/pro/37.jpg",
                 "variant_id": [
                     2501,
                     2503
@@ -2264,7 +2264,7 @@ const products = [
                 "image_id": 2512,
                 "id": 25.2,
                 "alt": "blue",
-                "src": "/assets/images/pro3/32.jpg",
+                "src": "/assets/images/fragrance/pro/32.jpg",
                 "variant_id": [
                     2502,
                     2504
@@ -2332,7 +2332,7 @@ const products = [
                 "image_id": 2611,
                 "id": 26.1,
                 "alt": "black",
-                "src": "/assets/images/pro3/10.jpg",
+                "src": "/assets/images/fragrance/pro/10.jpg",
                 "variant_id": [
                     2601,
                     2603
@@ -2342,7 +2342,7 @@ const products = [
                 "image_id": 2612,
                 "id": 26.2,
                 "alt": "gray",
-                "src": "/assets/images/pro3/38.jpg",
+                "src": "/assets/images/fragrance/pro/38.jpg",
                 "variant_id": [
                     2602,
                     2604
@@ -2409,7 +2409,7 @@ const products = [
                 "image_id": 2711,
                 "id": 27.1,
                 "alt": "skyblue",
-                "src": "/assets/images/pro3/7.jpg",
+                "src": "/assets/images/fragrance/pro/7.jpg",
                 "variant_id": [
                     2701,
                     2703
@@ -2419,7 +2419,7 @@ const products = [
                 "image_id": 2712,
                 "id": 27.2,
                 "alt": "yellow",
-                "src": "/assets/images/pro3/14.jpg",
+                "src": "/assets/images/fragrance/pro/14.jpg",
                 "variant_id": [
                     2702,
                     2704
@@ -2470,7 +2470,7 @@ const products = [
                 "image_id": 2811,
                 "id": 28.1,
                 "alt": "maroon",
-                "src": "/assets/images/pro3/17.jpg",
+                "src": "/assets/images/fragrance/pro/17.jpg",
                 "variant_id": [
                     2801
                 ]
@@ -2479,7 +2479,7 @@ const products = [
                 "image_id": 2812,
                 "id": 28.2,
                 "alt": "pink",
-                "src": "/assets/images/pro3/36.jpg",
+                "src": "/assets/images/fragrance/pro/36.jpg",
                 "variant_id": [
                     2802
                 ]
@@ -2528,7 +2528,7 @@ const products = [
                 "image_id": 2911,
                 "id": 29.1,
                 "alt": "gray",
-                "src": "/assets/images/pro3/12.jpg",
+                "src": "/assets/images/fragrance/pro/12.jpg",
                 "variant_id": [
                     2901
                 ]
@@ -2537,7 +2537,7 @@ const products = [
                 "image_id": 2912,
                 "id": 29.2,
                 "alt": "green",
-                "src": "/assets/images/pro3/11.jpg",
+                "src": "/assets/images/fragrance/pro/11.jpg",
                 "variant_id": [
                     2902
                 ]
@@ -2586,7 +2586,7 @@ const products = [
                 "image_id": 3011,
                 "id": 30.1,
                 "alt": "pink",
-                "src": "/assets/images/pro3/27.jpg",
+                "src": "/assets/images/fragrance/pro/27.jpg",
                 "variant_id": [
                     3001
                 ]
@@ -2595,7 +2595,7 @@ const products = [
                 "image_id": 3012,
                 "id": 30.2,
                 "alt": "red",
-                "src": "/assets/images/pro3/22.jpg",
+                "src": "/assets/images/fragrance/pro/22.jpg",
                 "variant_id": [
                     3002
                 ]
@@ -15324,7 +15324,7 @@ const products = [
                 "image_id": 29413,
                 "id": 294.3,
                 "alt": "pink",
-                "src": "/assets/images/pro3/11.jpg",
+                "src": "/assets/images/fragrance/pro/11.jpg",
                 "variant_id": [
                     29403,
                     29402
@@ -18267,7 +18267,7 @@ const products = [
                 "image_id": 36611,
                 "id": 366.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/1.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/1.jpg",
                 "variant_id": [
                     36601
                 ]
@@ -18276,7 +18276,7 @@ const products = [
                 "image_id": 36612,
                 "id": 366.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/2.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/2.jpg",
                 "variant_id": [
                     36602
                 ]
@@ -18318,7 +18318,7 @@ const products = [
                 "image_id": 36711,
                 "id": 367,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/2.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/2.jpg",
                 "variant_id": [
                     36701
                 ]
@@ -18327,7 +18327,7 @@ const products = [
                 "image_id": 36712,
                 "id": 367.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/3.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/3.jpg",
                 "variant_id": [
                     36702
                 ]
@@ -18369,7 +18369,7 @@ const products = [
                 "image_id": 36811,
                 "id": 368.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/3.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/3.jpg",
                 "variant_id": [
                     36801
                 ]
@@ -18378,7 +18378,7 @@ const products = [
                 "image_id": 36812,
                 "id": 368.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/4.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/4.jpg",
                 "variant_id": [
                     36802
                 ]
@@ -18420,7 +18420,7 @@ const products = [
                 "image_id": 36911,
                 "id": 369.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/4.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/4.jpg",
                 "variant_id": [
                     36901
                 ]
@@ -18429,7 +18429,7 @@ const products = [
                 "image_id": 36912,
                 "id": 369.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/5.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/5.jpg",
                 "variant_id": [
                     36902
                 ]
@@ -18471,7 +18471,7 @@ const products = [
                 "image_id": 37011,
                 "id": 370.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/5.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/5.jpg",
                 "variant_id": [
                     37001
                 ]
@@ -18480,7 +18480,7 @@ const products = [
                 "image_id": 37012,
                 "id": 370.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/6.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/6.jpg",
                 "variant_id": [
                     37002
                 ]
@@ -18522,7 +18522,7 @@ const products = [
                 "image_id": 37111,
                 "id": 371.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/6.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/6.jpg",
                 "variant_id": [
                     37101
                 ]
@@ -18531,7 +18531,7 @@ const products = [
                 "image_id": 37112,
                 "id": 371.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/7.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/7.jpg",
                 "variant_id": [
                     37102
                 ]
@@ -18573,7 +18573,7 @@ const products = [
                 "image_id": 37211,
                 "id": 372.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/6.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/6.jpg",
                 "variant_id": [
                     37201
                 ]
@@ -18582,7 +18582,7 @@ const products = [
                 "image_id": 37212,
                 "id": 372.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/7.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/7.jpg",
                 "variant_id": [
                     37202
                 ]
@@ -18624,7 +18624,7 @@ const products = [
                 "image_id": 37311,
                 "id": 373.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/7.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/7.jpg",
                 "variant_id": [
                     37301
                 ]
@@ -18633,7 +18633,7 @@ const products = [
                 "image_id": 37312,
                 "id": 373.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/8.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/8.jpg",
                 "variant_id": [
                     37302
                 ]
@@ -18675,7 +18675,7 @@ const products = [
                 "image_id": 37411,
                 "id": 374.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/8.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/8.jpg",
                 "variant_id": [
                     37401
                 ]
@@ -18684,7 +18684,7 @@ const products = [
                 "image_id": 37412,
                 "id": 374.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/9.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/9.jpg",
                 "variant_id": [
                     37402
                 ]
@@ -18726,7 +18726,7 @@ const products = [
                 "image_id": 37511,
                 "id": 375.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/9.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/9.jpg",
                 "variant_id": [
                     37501
                 ]
@@ -18735,7 +18735,7 @@ const products = [
                 "image_id": 37512,
                 "id": 375.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/10.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/10.jpg",
                 "variant_id": [
                     37502
                 ]
@@ -18777,7 +18777,7 @@ const products = [
                 "image_id": 37611,
                 "id": 376.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/10.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/10.jpg",
                 "variant_id": [
                     37601
                 ]
@@ -18786,7 +18786,7 @@ const products = [
                 "image_id": 37612,
                 "id": 376.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/11.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/11.jpg",
                 "variant_id": [
                     37602
                 ]
@@ -18828,7 +18828,7 @@ const products = [
                 "image_id": 37711,
                 "id": 377.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/11.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/11.jpg",
                 "variant_id": [
                     37701
                 ]
@@ -18837,7 +18837,7 @@ const products = [
                 "image_id": 37712,
                 "id": 377.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/12.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/12.jpg",
                 "variant_id": [
                     37702
                 ]
@@ -18879,7 +18879,7 @@ const products = [
                 "image_id": 37811,
                 "id": 378.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/12.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/12.jpg",
                 "variant_id": [
                     37801
                 ]
@@ -18888,7 +18888,7 @@ const products = [
                 "image_id": 37812,
                 "id": 378.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/11.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/11.jpg",
                 "variant_id": [
                     37802
                 ]
@@ -18930,7 +18930,7 @@ const products = [
                 "image_id": 37711,
                 "id": 377.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/13.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/13.jpg",
                 "variant_id": [
                     37701
                 ]
@@ -18939,7 +18939,7 @@ const products = [
                 "image_id": 37712,
                 "id": 377.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/14.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/14.jpg",
                 "variant_id": [
                     37702
                 ]
@@ -18981,7 +18981,7 @@ const products = [
                 "image_id": 37811,
                 "id": 378.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/14.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/14.jpg",
                 "variant_id": [
                     37801
                 ]
@@ -18990,7 +18990,7 @@ const products = [
                 "image_id": 37812,
                 "id": 378.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/15.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/15.jpg",
                 "variant_id": [
                     37802
                 ]
@@ -19032,7 +19032,7 @@ const products = [
                 "image_id": 37911,
                 "id": 379.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/15.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/15.jpg",
                 "variant_id": [
                     37901
                 ]
@@ -19041,7 +19041,7 @@ const products = [
                 "image_id": 37912,
                 "id": 379.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/16.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/16.jpg",
                 "variant_id": [
                     37902
                 ]
@@ -19083,7 +19083,7 @@ const products = [
                 "image_id": 38011,
                 "id": 380,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/16.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/16.jpg",
                 "variant_id": [
                     38001
                 ]
@@ -19092,7 +19092,7 @@ const products = [
                 "image_id": 38012,
                 "id": 380.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/17.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/17.jpg",
                 "variant_id": [
                     38002
                 ]
@@ -19134,7 +19134,7 @@ const products = [
                 "image_id": 38111,
                 "id": 381,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/17.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/17.jpg",
                 "variant_id": [
                     38101
                 ]
@@ -19143,7 +19143,7 @@ const products = [
                 "image_id": 38112,
                 "id": 381.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/18.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/18.jpg",
                 "variant_id": [
                     38102
                 ]
@@ -19186,7 +19186,7 @@ const products = [
                 "image_id": 38211,
                 "id": 382.1,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/18.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/18.jpg",
                 "variant_id": [
                     38201
                 ]
@@ -19195,7 +19195,7 @@ const products = [
                 "image_id": 38212,
                 "id": 382.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/19.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/19.jpg",
                 "variant_id": [
                     38202
                 ]
@@ -19237,7 +19237,7 @@ const products = [
                 "image_id": 38311,
                 "id": 383,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/19.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/19.jpg",
                 "variant_id": [
                     38301
                 ]
@@ -19246,7 +19246,7 @@ const products = [
                 "image_id": 38312,
                 "id": 383,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/20.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/20.jpg",
                 "variant_id": [
                     38302
                 ]
@@ -19758,7 +19758,7 @@ const products = [
                 "image_id": 40312,
                 "id": 403.2,
                 "alt": "christmas",
-                "src": "/assets/images/christmas/pro3/20.jpg",
+                "src": "/assets/images/christmas/fragrance/pro/20.jpg",
                 "variant_id": [
                     40302
                 ]
