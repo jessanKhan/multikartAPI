@@ -60,6 +60,96 @@ const BlogData = [
         longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
     },
     {
+        type: "fashion",
+        img: '/assets/images/blog/7.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/8.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/9.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/10.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/11.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/12.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/13.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/14.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "fashion",
+        img: '/assets/images/blog/15.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
         type: "beauty",
         img: '/assets/images/beauty/blog/1.jpg',
         link: '/blog/details',
