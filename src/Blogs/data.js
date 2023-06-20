@@ -150,6 +150,86 @@ const BlogData = [
         longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
     },
     {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/1.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/2.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/3.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/4.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/5.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/6.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/7.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
+        type: "blogpost",
+        img: '/assets/images/blog/banner/8.jpg',
+        link: '/blog/details',
+        title: '29 January 2022',
+        desc: 'Lorem ipsum dolor sit consectetur adipiscing elit',
+        date: 'by: John Dio , 2 Comment',
+        shortDesc: 'you how all this mistaken idea of denouncing pleasure and praising pain was born',
+        longDesc: 'Consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.'
+    },
+    {
         type: "beauty",
         img: '/assets/images/beauty/blog/1.jpg',
         link: '/blog/details',
